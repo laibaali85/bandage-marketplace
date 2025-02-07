@@ -5,7 +5,7 @@ import React from "react";
 const Carousel = () => {
   return (
     <div
-      className="w-full h-screen flex items-center bg-cover bg-center md:hidden sm:hidden "
+      className="w-full h-screen flex items-center bg-cover bg-center  "
       style={{
         backgroundImage: "url('/images/hero-image.jpg')", // Update with your background image path
       }}
